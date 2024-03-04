@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var word = "selamun aleykumun"
 
     override func viewDidLoad() {
         super.viewDidLoad()
