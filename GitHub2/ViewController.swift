@@ -10,6 +10,8 @@ import UIKit
 class ViewController: UIViewController {
     
     var word = "selamun aleykumun"
+    
+    var gangster = "GitGang"
 
     override func viewDidLoad() {
         super.viewDidLoad()
